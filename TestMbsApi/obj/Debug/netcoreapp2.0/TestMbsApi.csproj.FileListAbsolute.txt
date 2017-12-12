@@ -1,0 +1,11 @@
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\bin\Debug\netcoreapp2.0\TestMbsApi.deps.json
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\bin\Debug\netcoreapp2.0\TestMbsApi.runtimeconfig.json
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\bin\Debug\netcoreapp2.0\TestMbsApi.runtimeconfig.dev.json
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\bin\Debug\netcoreapp2.0\TestMbsApi.dll
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\bin\Debug\netcoreapp2.0\TestMbsApi.pdb
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\obj\Debug\netcoreapp2.0\TestMbsApi.csprojResolveAssemblyReference.cache
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\obj\Debug\netcoreapp2.0\TestMbsApi.csproj.CoreCompileInputs.cache
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\obj\Debug\netcoreapp2.0\TestMbsApi.AssemblyInfoInputs.cache
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\obj\Debug\netcoreapp2.0\TestMbsApi.AssemblyInfo.cs
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\obj\Debug\netcoreapp2.0\TestMbsApi.dll
+C:\Users\mvinti\source\repos\TestMbsApi\TestMbsApi\obj\Debug\netcoreapp2.0\TestMbsApi.pdb
