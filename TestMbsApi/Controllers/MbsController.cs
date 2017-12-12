@@ -34,7 +34,7 @@ namespace TestMbsApi.Controllers
         [HttpGet("{documentNum}", Name = "GetMbs")]
         public IActionResult GetByDocumentName(string documentNum)
         {
-            var mbsItem = _context.MbsItems.FirstOrDefault(t => t.DocumentNum == documentNum);
+            var mbsItem = _context.MbsItems.FirstOrDefault(t => t.DocumentNum.ToUpper() == documentNum);
             if (mbsItem == null)
             {
                 return NotFound();
